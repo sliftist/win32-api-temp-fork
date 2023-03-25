@@ -1,5 +1,5 @@
 {
-  "name": "@sliftist/win32-api",
+  "name": "win32-api",
   "author": "waiting",
   "version": "20.4.1-a",
   "description": "FFI definitions of windows win32 api for node-ffi",
